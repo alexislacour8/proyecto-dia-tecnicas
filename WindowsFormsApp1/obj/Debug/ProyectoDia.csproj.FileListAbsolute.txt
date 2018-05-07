@@ -1,0 +1,13 @@
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoDia.csprojResolveAssemblyReference.cache
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Login.resources
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoDia.csproj.GenerateResource.cache
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProyectoDia.csproj.CoreCompileInputs.cache
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frm_Home.resources
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MDI.resources
+C:\Users\barbas\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Recursos.resources
