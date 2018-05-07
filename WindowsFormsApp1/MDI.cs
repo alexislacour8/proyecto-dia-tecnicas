@@ -97,12 +97,13 @@ namespace WindowsFormsApp1
         }
 
 
-        Frm_Login Frm_login = new Frm_Login();
+        Frm_Login Frm_login = null;
         Usuario user = new Usuario();
         private void sesionsec_iniciarsesion_Click(object sender, EventArgs e)
         {
-            if (Frm_login != null)
+            if (Frm_login == null)
             {
+                Frm_login = new Frm_Login();
                 Frm_login.MdiParent = this;
                 Frm_login.FormClosing += new FormClosingEventHandler(frm_login_FormClosing); 
 
@@ -129,6 +130,7 @@ namespace WindowsFormsApp1
 
             IList<ToolStripItem> array_controlmenu = menusript_main.Items.OfType<ToolStripItem>().ToList();
             Frm_login.Dispose();
+            Frm_login = null;
             for (int i = 0; i <= array_controlmenu.Count ; i++)
             {
                 
