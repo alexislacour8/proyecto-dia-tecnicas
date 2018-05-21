@@ -1,0 +1,6 @@
+C:\Users\alexis\Desktop\dia\sistemadia\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\alexis\Desktop\dia\sistemadia\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\alexis\Desktop\dia\sistemadia\ClassLibrary1\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
+C:\Users\alexis\Desktop\dia\sistemadia\ClassLibrary1\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\alexis\Desktop\dia\sistemadia\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\alexis\Desktop\dia\sistemadia\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

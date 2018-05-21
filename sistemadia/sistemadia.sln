@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistemadia", "sistemadia\sistemadia.csproj", "{B75CC6F4-EC20-4936-9854-52E687095B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conexion", "ClassLibrary1\Conexion.csproj", "{3CDAA86D-A042-4416-8D9F-F741F998F7A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75CC6F4-EC20-4936-9854-52E687095B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75CC6F4-EC20-4936-9854-52E687095B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75CC6F4-EC20-4936-9854-52E687095B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75CC6F4-EC20-4936-9854-52E687095B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CDAA86D-A042-4416-8D9F-F741F998F7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDAA86D-A042-4416-8D9F-F741F998F7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDAA86D-A042-4416-8D9F-F741F998F7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDAA86D-A042-4416-8D9F-F741F998F7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D35AD52-2D3B-4F9A-83BE-99721C446FA5}
+	EndGlobalSection
+EndGlobal
