@@ -1,0 +1,8 @@
+C:\Users\alexis\Desktop\dia\sistemadia\Conexion2\bin\Debug\Conexion2.dll
+C:\Users\alexis\Desktop\dia\sistemadia\Conexion2\bin\Debug\Conexion2.pdb
+C:\Users\alexis\Desktop\dia\sistemadia\Conexion2\obj\Debug\Conexion2.csproj.CoreCompileInputs.cache
+C:\Users\alexis\Desktop\dia\sistemadia\Conexion2\obj\Debug\Conexion2.dll
+C:\Users\alexis\Desktop\dia\sistemadia\Conexion2\obj\Debug\Conexion2.pdb
+C:\Users\alexis\Desktop\dia\sistemadia\Conexion2\obj\Debug\Conexion2.csprojResolveAssemblyReference.cache
+C:\Users\alexis\Desktop\dia\sistemadia\Conexion2\obj\Debug\Conexion2.csproj.GenerateResource.Cache
+C:\Users\alexis\Desktop\dia\sistemadia\Conexion2\obj\Debug\Conexion2.ErrortextBox.resources
